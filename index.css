@@ -11,7 +11,7 @@ body {
 
 main {
     max-width: 600px;
-    width: 100%;
+    width: 100px;
     margin: 24px auto;
     /* margin-top: 24px;
     margin-bottom: 24px;
@@ -47,7 +47,7 @@ nav > ul {
 
 #avatar {
     
-    width: 200px; 
+    width: 100px; 
     margin: 32px auto;
 
 }
